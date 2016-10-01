@@ -1,4 +1,3 @@
-[![Circle CI](https://circleci.com/gh/rangle/angular2-redux-example.svg?style=svg)](https://circleci.com/gh/rangle/angular2-redux-starter)
 
 # Angular 2/TypeScript/Redux/Webpack Example App
 
@@ -71,16 +70,4 @@ developing your software.
 
 Edit [this file](server/proxy-config.js) to mount such APIs at a given path.
 
-## Improvements
 
-This is an initial version of this setup and will be expanded in the future.
-Refer to the [issues section](https://github.com/rangle/angular2-redux-example/issues)
-to see what needs to be done, or create a [new one](https://github.com/rangle/angular2-redux-example/issues/new).
-
-## License
-
-Copyright (c) 2016 rangle.io
-
-[MIT License][MIT]
-
-[MIT]: ./LICENSE "Mit License"
